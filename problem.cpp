@@ -8,7 +8,12 @@ int main(){
       cout<<"sum is : "<<sum<<endl;
       cout<<"hey";
 
+
        if (a==b){
+         for(int i=0;i<5;i++){
+            
+         }
+
 
        }
     return 0;
