@@ -8,6 +8,8 @@ int main(){
       cout<<"sum is : "<<sum<<endl;
       cout<<"hey";
 
+       if (a==b){
 
+       }
     return 0;
 }
